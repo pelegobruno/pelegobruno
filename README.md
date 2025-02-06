@@ -21,3 +21,10 @@
 </div><br/>
 
 Apaixonado por tecnologia, Educação financeira e ajudar a ressiginificar vidas através de projetos
+
+
+
+
+<img src="https://raw.githubusercontent.com/pelegobruno/pelegobruno/output/snake.svg" alt="Snake animation" />
+
+###
